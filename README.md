@@ -1,11 +1,6 @@
 # Alma-Economics
  Junior Front-end Software Engineer role at Alma Economics.
 
-![GitHub contributors](https://img.shields.io/github/contributors/nikhilkalhan92/Alma-Economics)
-![GitHub last commit](https://img.shields.io/github/last-commit/nikhilkalhan92/Alma-Economics)
-![GitHub language count](https://img.shields.io/github/languages/count/nikhilkalhan92/Alma-Economics)
-![GitHub top language](https://img.shields.io/github/languages/top/nikhilkalhan92/Alma-Economics)
-
 [Here is a link to the final project](https://alma-economics-9gn3.vercel.app/)
 
 # Technologies used
