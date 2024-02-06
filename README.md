@@ -51,8 +51,5 @@ Advanced Filtering: Introducing filters for genres, ratings, and release years c
 
 Issues synching the movie.json file to show on the main website page - I consoled log the data and it appeared on the console. Eventually I got it to work.
 
-# Final Product
-
-![homepage](media/Homepage.png)
-![searchgroupfilm](media/Searchfilmgroup.png)
-![searchsinglefilm](media/Searchsinglefilm.png)
+Thank you
+Nikhil Kalhan
