@@ -1,4 +1,3 @@
-// Movie.js
 import React from 'react';
 
 function Movie({ movie }) {
