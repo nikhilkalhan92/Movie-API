@@ -1,5 +1,4 @@
-# Alma-Economics
- Junior Front-end Software Engineer role at Alma Economics.
+# Movie API
 
 [Here is a link to the final project](https://alma-economics-9gn3.vercel.app/)
 
